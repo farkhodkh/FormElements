@@ -53,6 +53,7 @@
 			children = (
 				E8CD81292725E6730085A75E /* FormElementsApp.swift */,
 				E8CD812B2725E6730085A75E /* ContentView.swift */,
+				E8CD81372725EF9E0085A75E /* New Group */,
 				E8CD812D2725E6760085A75E /* Assets.xcassets */,
 				E8CD812F2725E6760085A75E /* Preview Content */,
 			);
@@ -65,6 +66,13 @@
 				E8CD81302725E6760085A75E /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		E8CD81372725EF9E0085A75E /* New Group */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = "New Group";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
